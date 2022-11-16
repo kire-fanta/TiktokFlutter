@@ -1,0 +1,16 @@
+.container {
+  color: #6d2f2f;
+}
+button {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 177px;
+  height: 57px;
+  left: 1255px;
+  top: 649px;
+
+  background: #ffffff;
+  border: 1px solid #0b8f00;
+  border-radius: 25px;
+}
